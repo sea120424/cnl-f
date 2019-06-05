@@ -37,7 +37,7 @@ const AnsSchema = new mongoose.Schema({
 	isFilled: {
 		type: Boolean,
 		default: false,
-	}
+	},
 	ishit: {
 		type: Boolean,
 		default: false,
